@@ -1,0 +1,29 @@
+{
+    // Tema do VSCode
+    "workbench.colorTheme": "Dracula",
+
+    // Esquema de icones para cada linguagem
+    "workbench.iconTheme": "material-icon-theme",
+
+    // Fontes e Configurações, Espaçamentos
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true, 
+    "editor.fontSize": 14,
+    "editor.lineHeight": 20,
+
+    // Aplicar linhas verticais para lembrar de quebra de linha
+    "editor.rulers": [80,120],
+    "editor.formatOnSave": false,
+}
+
+/* EXTENSÕES QUE USO NO VSCODE:
+
+Color Highlight
+Dracula Official
+Live Server
+Live Share
+Material Icon Theme
+Rocketseat React Native
+Rocketseat ReactJS 
+
+*/
