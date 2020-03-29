@@ -13,7 +13,18 @@
 
     // Aplicar linhas verticais para lembrar de quebra de linha
     "editor.rulers": [80,120],
-    "editor.formatOnSave": false
+    "editor.formatOnSave": false,
+    "git.ignoreMissingGitWarning": true,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+
+    // Auto-complete "div.class" on React
+    "emmet.syntaxProfiles": { "javascript": "jsx" },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+
 }
 
 /* EXTENSÕES QUE USO NO VSCODE:
@@ -25,20 +36,5 @@ Live Share
 Material Icon Theme
 Rocketseat React Native
 Rocketseat ReactJS 
-
-*/
-
-/* PROGRAMAS E FUNCIONALIDADES:
-
-NODE.js
-NPM
-Express via npm
-Expo (Android/iOS)
-Nodemon via npm
-Insomnia (64x)
-KNEX.js via npm
-SQLite3 via npm
-Módulo CORS (Segurança)
-
 
 */
