@@ -1,6 +1,6 @@
 {
     // Tema do VSCode
-    "workbench.colorTheme": "Dracula",
+    "workbench.colorTheme": "Omni",
 
     // Esquema de icones para cada linguagem
     "workbench.iconTheme": "material-icon-theme",
@@ -30,7 +30,7 @@
 /* EXTENSÕES QUE USO NO VSCODE:
 
 Color Highlight
-Dracula Official
+Omni Theme - Rocketseat
 Live Server
 Live Share
 Material Icon Theme
