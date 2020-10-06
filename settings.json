@@ -5,6 +5,11 @@
     // Esquema de icones para cada linguagem
     "workbench.iconTheme": "material-icon-theme",
 
+    // Fontes e Configurações, Espaçamentos
+    "editor.fontFamily": "Courier New",
+    "editor.fontSize": 15,
+    "editor.lineHeight": 20,
+
     // Aplicar linhas verticais para lembrar de quebra de linha
     "editor.rulers": [80,120],
     "editor.formatOnSave": false,
