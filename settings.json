@@ -6,7 +6,7 @@
     "workbench.iconTheme": "material-icon-theme",
 
     // Fontes e Configurações, Espaçamentos
-    "editor.fontFamily": "Courier New",
+    "editor.fontFamily": "Consolas",
     "editor.fontSize": 15,
     "editor.lineHeight": 20,
 
