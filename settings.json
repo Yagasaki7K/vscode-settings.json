@@ -6,9 +6,10 @@
     "workbench.iconTheme": "material-icon-theme",
 
     // Fontes e Configurações, Espaçamentos
-    "editor.fontFamily": "Consolas",
+    "editor.tabSize": 4,
     "editor.fontSize": 15,
     "editor.lineHeight": 20,
+    
 
     // Aplicar linhas verticais para lembrar de quebra de linha
     "editor.rulers": [80,120],
@@ -25,12 +26,3 @@
     "javascript.updateImportsOnFileMove.enabled": "always",
 
 }
-
-/* EXTENSÕES QUE USO NO VSCODE:
-
-Color Highlight
-Electron Color Theme (https://marketplace.visualstudio.com/items?itemName=kuscamara.electron)
-Live Server
-Material Icon Theme
-
-*/
