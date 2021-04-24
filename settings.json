@@ -14,7 +14,7 @@
     
 
     // Aplicar linhas verticais para lembrar de quebra de linha
-    "editor.rulers": [80,120],
+    "editor.rulers": [90.150],
     "editor.formatOnSave": false,
     "git.ignoreMissingGitWarning": true,
     "explorer.confirmDragAndDrop": false,
