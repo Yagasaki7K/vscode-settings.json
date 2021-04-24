@@ -1,14 +1,16 @@
 {
     // Tema do VSCode
-    "workbench.colorTheme": "Electron",
+    "workbench.colorTheme": "Dracula",
 
     // Esquema de icones para cada linguagem
     "workbench.iconTheme": "material-icon-theme",
 
     // Fontes e Configurações, Espaçamentos
+    "editor.fontFamily": "Fira Code",
     "editor.tabSize": 4,
-    "editor.fontSize": 15,
-    "editor.lineHeight": 20,
+    "editor.fontSize": 14,
+    "editor.lineHeight": 22,
+    "editor.fontLigatures": true,
     
 
     // Aplicar linhas verticais para lembrar de quebra de linha
@@ -24,5 +26,13 @@
         "javascript": "javascriptreact"
     },
     "javascript.updateImportsOnFileMove.enabled": "always",
+    "settingsSync.ignoredExtensions": [
+        "felixfbecker.php-intellisense",
+        "hoovercj.vscode-power-mode",
+        "ms-vscode-remote.remote-wsl"
+    ],
+    "gitlens.advanced.messages": {
+        "suppressGitMissingWarning": true
+    },
 
 }
