@@ -8,6 +8,7 @@
     // Fontes e Configurações, Espaçamentos
     "editor.fontFamily": "Fira Code",
     "editor.tabSize": 4,
+    "workbench.tree.indent": 15,
     "editor.fontSize": 14,
     "editor.lineHeight": 22,
     "editor.fontLigatures": true,
