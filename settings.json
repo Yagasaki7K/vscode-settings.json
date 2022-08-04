@@ -12,6 +12,7 @@
     "editor.fontSize": 14,
     "editor.lineHeight": 22,
     "editor.fontLigatures": true,
+    "editor.wordWrap": "on",
     
 
     // Aplicar linhas verticais para lembrar de quebra de linha
@@ -35,5 +36,22 @@
     "gitlens.advanced.messages": {
         "suppressGitMissingWarning": true
     },
+    "editor.inlineSuggest.enabled": true,
+    "github.copilot.enable": {
+        "*": true,
+        "yaml": true,
+        "plaintext": true,
+        "markdown": true
+    },
+    "editor.minimap.enabled": false,
+    "terminal.explorerKind": "external",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "security.workspace.trust.untrustedFiles": "open",
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "[vue]": {
+        "editor.defaultFormatter": "Vue.volar"
+    },
+    "react-native-tools.showUserTips": false,
+    "typescript.updateImportsOnFileMove.enabled": "always",
 
 }
