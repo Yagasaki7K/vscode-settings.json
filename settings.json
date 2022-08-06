@@ -4,10 +4,12 @@
 
     // Esquema de icones para cada linguagem
     "workbench.iconTheme": "material-icon-theme",
+    
 
     // Fontes e Configurações, Espaçamentos
     "editor.fontFamily": "Fira Code",
     "editor.tabSize": 4,
+    "editor.experimental.stickyScroll.enabled": true,
     "workbench.tree.indent": 15,
     "editor.fontSize": 14,
     "editor.lineHeight": 22,
